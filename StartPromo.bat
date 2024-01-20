@@ -1,0 +1,1 @@
+python "C:\APIs and Scripts\MerchantCenter\Brandscycle\Update Promo\PROMO.py"
